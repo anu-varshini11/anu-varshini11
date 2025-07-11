@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently pursuing **Engineering** at Saveetha Engineering College  
+- 🔭 I’m currently pursuing **AI-ML** at Saveetha Engineering College  
 - 🌱 Actively learning **Development** (Full Stack) and **DSA**
 - 💡 I enjoy working on **real-world problems**, and love experimenting with ideas
 - 🤝 I’m open to collaboration on:
@@ -31,7 +31,7 @@
 
 ```bash
 Languages:         Python, Java, C, HTML, CSS, JavaScript
-Frontend:          Bootstrap, Figma
+Frontend:          Bootstrap, Figma, React.js
 Backend:           Node.js, Express.js
 Database:          MongoDB
 Tools:             Git, GitHub, VS Code, Ubuntu Linux
