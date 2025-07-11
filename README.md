@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @anu-varshini11
-- 👀 I’m interested in learning new things and innovative thinking
-- 🌱 I’m currently learning ML, WEB Development & Image Processing 
-- 💞️ I’m looking to collaborate on Hackathons
-- 📫 How to reach me through mbanuvarshini@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love having jovial conversation & I smile a lot.
+<h2 align="center">Hey there! I'm Anu Varshini 👋</h2>
 
-<!---
-anu-varshini11/anu-varshini11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <i>A passionate learner, problem solver, and always up for building cool stuff 🚀</i>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I’m currently pursuing **Engineering** at Saveetha Engineering College  
+- 🌱 Actively learning **Development** (Full Stack) and **DSA**
+- 💡 I enjoy working on **real-world problems**, and love experimenting with ideas
+- 🤝 I’m open to collaboration on:
+  - Hackathons 🤖
+  - Open Source Projects 🛠️
+  - Technical Events and Community Work 💬
+- 😄 Pronouns: `she/her`
+- ⚡ Fun fact: I'm known for my **jovial nature**, and yes — I smile a lot 😄
+
+---
+
+### 📬 Reach Me
+
+- ✉️ Email: [mbanuvarshini@gmail.com](mailto:mbanuvarshini@gmail.com)  
+- 💼 LinkedIn: [anu-varshini](https://www.linkedin.com/in/anu-varshini-761903287/)
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages:         Python, Java, C, HTML, CSS, JavaScript
+Frontend:          Bootstrap, Figma
+Backend:           Node.js, Express.js
+Database:          MongoDB
+Tools:             Git, GitHub, VS Code, Ubuntu Linux
