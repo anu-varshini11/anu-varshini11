@@ -19,6 +19,7 @@
 - ⚡ Fun fact: I'm known for my **jovial nature**, and yes — I smile a lot 😄
 
 ---
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=xT6lbwXmZ6&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
 ### 📬 Reach Me
 
